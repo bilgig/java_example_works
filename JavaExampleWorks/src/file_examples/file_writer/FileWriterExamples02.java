@@ -1,0 +1,28 @@
+package file_examples.file_writer;
+
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.PrintWriter;
+
+public class FileWriterExamples02 {
+    public static void main(String[] args) {
+        PrintWriter printWriter=null;
+        try {
+            printWriter=new PrintWriter("printWriter.txt");
+            printWriter.println("merhaba");
+            printWriter.println("dünya");
+            printWriter.flush();
+        } catch (FileNotFoundException e) {
+            throw new RuntimeException(e);
+        }finally {
+           // printWriter.close();
+
+        }
+        printWriter.println("Merhaba, Dünya");
+        printWriter.printf("Sayı:%d, Metin:%s", 42,"OpenAI");
+        printWriter.flush();
+
+
+
+    }
+}
