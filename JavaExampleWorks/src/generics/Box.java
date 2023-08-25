@@ -1,4 +1,4 @@
-package generic_bounded_example;
+package generics;
 
 public class Box <T>{
     private T item;

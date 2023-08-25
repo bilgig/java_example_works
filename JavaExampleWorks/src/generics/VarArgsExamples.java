@@ -1,4 +1,4 @@
-package generic_bounded_example;
+package generics;
 
 public class VarArgsExamples {
     public static<T> void printArray(T... items){

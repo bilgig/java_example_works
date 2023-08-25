@@ -1,4 +1,4 @@
-package generic_bounded_example;
+package generics;
 
 import java.util.*;
 

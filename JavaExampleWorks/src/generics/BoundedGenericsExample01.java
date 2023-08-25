@@ -1,4 +1,4 @@
-package generic_bounded_example;
+package generics;
 
 public class BoundedGenericsExample01 {
     public static void main(String[] args) {

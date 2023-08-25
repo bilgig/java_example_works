@@ -1,4 +1,4 @@
-package generic_bounded_example;
+package generics;
 
 public class BoundedClass01 <T extends Comparable<T>>{
     private T data;

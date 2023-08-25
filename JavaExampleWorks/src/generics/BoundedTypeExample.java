@@ -1,4 +1,4 @@
-package generic_bounded_example;
+package generics;
 
 public class BoundedTypeExample {
     public static <T extends Number> void findMinMax(T[] array) {
