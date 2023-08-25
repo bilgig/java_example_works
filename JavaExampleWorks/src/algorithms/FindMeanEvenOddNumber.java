@@ -2,7 +2,7 @@ package algorithms;
 
 import java.util.Scanner;
 
-public class TekCiftSayiToplamOrtBulma {
+public class FindMeanEvenOddNumber {
     //iki sayı gir teklerin toplamını ve ortalamasını al ekrana yaz. aynı işi çift içinde yap. girilen sayılar dahil olsun
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
