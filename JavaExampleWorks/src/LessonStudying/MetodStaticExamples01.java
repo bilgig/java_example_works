@@ -1,6 +1,6 @@
 package LessonStudying;
 
-import Algorithms.AccessStaticMethodDivide;
+import algorithms.AccessStaticMethodDivide;
 
 public class MetodStaticExamples01 {
     public static void main(String[] args) {

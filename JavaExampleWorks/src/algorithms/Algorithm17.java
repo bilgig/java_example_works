@@ -1,4 +1,4 @@
-package Algorithms;
+package algorithms;
 
 import java.util.Scanner;
 //Klavyeden girilen sayının asal olup olmadığını söyleyen uygulama

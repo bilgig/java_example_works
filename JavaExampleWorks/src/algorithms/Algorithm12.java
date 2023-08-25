@@ -1,4 +1,4 @@
-package Algorithms;
+package algorithms;
 
 import java.util.Scanner;
 //Kullanıcı final ve vize notunu girsin.Vizenin %40, finalin %60 alınsın.

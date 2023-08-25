@@ -1,4 +1,4 @@
-package Algorithms;
+package algorithms;
 
 import java.util.Scanner;
 //Girilen iki sayının toplamını bulan ve sonucu ekrana yazdıran programın algoritmasını yazınız.

@@ -1,4 +1,4 @@
-package Algorithms;
+package algorithms;
 
 public class AccessStaticMethodDivide {
     public static int divide(int number1,int number2){

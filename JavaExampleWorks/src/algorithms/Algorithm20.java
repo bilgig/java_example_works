@@ -1,4 +1,4 @@
-package Algorithms;
+package algorithms;
 //Kullanıcıdan 0 girene kadar hep sayılar ala ve 0 girdiğinde o zamana
 //kadar girdiği tüm sayıları toplamını ekrana yazdıran java kodunu
 //yazınız.

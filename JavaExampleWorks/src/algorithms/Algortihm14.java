@@ -1,4 +1,4 @@
-package Algorithms;
+package algorithms;
 
 public class Algortihm14 {
     //Aşağıda verilen dizideki sayıların for yada foreach kullanılarak toplamını ve ortalamasını hesaplayan kodu yazınız.

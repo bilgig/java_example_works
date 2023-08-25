@@ -1,4 +1,4 @@
-package Algorithms;
+package algorithms;
 
 public class Algortihm08 {
     public static void main(String[] args) {

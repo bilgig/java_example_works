@@ -1,6 +1,4 @@
-package Algorithms;
-
-import java.util.Scanner;
+package algorithms;
 
 public class Algortihm15 {
     public static void main(String[] args) {

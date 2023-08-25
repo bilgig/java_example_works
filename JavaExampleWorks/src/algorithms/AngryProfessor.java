@@ -1,4 +1,4 @@
-package Algorithms;
+package algorithms;
 
 public class AngryProfessor {
         public static void main(String[] args) {

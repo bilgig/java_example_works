@@ -1,4 +1,4 @@
-package Algorithms;
+package algorithms;
 
 public class Algorithm16 {
     //Mükemmel sayı :Kendisi hariç bütün  pozitif bölenlerinin toplamı kendisine eşit olan sayılara denir.

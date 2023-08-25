@@ -1,6 +1,4 @@
-package Algorithms;
-
-import java.lang.reflect.Array;
+package algorithms;
 
 public class MethodExamples03 {
     public static void main(String[] args) {
