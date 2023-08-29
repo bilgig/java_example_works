@@ -4,14 +4,6 @@ import java.io.*;
 
 
 public class StairCaseDownRight {
-
-
-        /*
-         * Complete the 'staircase' function below.
-         *
-         * The function accepts INTEGER n as parameter.
-         */
-
         public static void staircase(int n) {
 /*            for (int i = 1; i < n; i++) {
                 for(int k = 1; k <= n - i; k++){
@@ -31,7 +23,6 @@ public class StairCaseDownRight {
                     else
                         System.out.print("#");
                 }
-                // Display in a new line
                 System.out.println();
             }
         }
