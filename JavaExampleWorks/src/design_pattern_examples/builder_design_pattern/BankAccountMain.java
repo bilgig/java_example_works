@@ -1,4 +1,4 @@
-package design_pattern_examples.builders_design_pattern;
+package design_pattern_examples.builder_design_pattern;
 
 public class BankAccountMain {
   public static void main(String[] args) {
